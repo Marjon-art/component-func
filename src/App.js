@@ -1,6 +1,6 @@
 import './App.css';
 import data from"./data.json";
-import { ShopItemFunc } from "./ShopItemFunc.js";
+import { ShopItemFunc } from "./ShopItemFunc.jsx";
 
 
 function App() {
@@ -17,4 +17,5 @@ function App() {
     </div>
   );
 }
+
 export default App;
